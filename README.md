@@ -6,12 +6,9 @@ A data-driven analytics dashboard for Chennai Super Kings players, built step by
 
 > **Disclaimer:** This is an unofficial fan project for learning. It is not affiliated with, endorsed by, or connected to Chennai Super Kings, the BCCI or the IPL. Statistics are entered manually and may contain errors.
 
-## Screenshots
 
-<!-- Add your screenshots to a docs/ folder and uncomment: -->
-<!-- ![Home](docs/home.png) -->
-<!-- ![Analytics](docs/analytics.png) -->
-<!-- ![Current Form](docs/form.png) -->
+
+
 
 ## Features
 
@@ -89,7 +86,7 @@ Weights live in `src/analytics.js` and can be tuned. The workbook only has seaso
 - Ages in `players.json` are reference values; the plan is to store date of birth and calculate age.
 - Scraping Cricbuzz is avoided due to terms-of-service risk; the plan is a licensed API plus free historical data (e.g. Cricsheet).
 
-## License
+## Screenshots
 
 <img width="1900" height="911" alt="Screenshot 2026-10-10 101341" src="https://github.com/user-attachments/assets/4f2d704b-a108-4d9d-99f0-32bc49118c76" />
 <img width="1895" height="902" alt="Screenshot 2026-10-10 101354" src="https://github.com/user-attachments/assets/5c0b729a-7cea-48c2-b14c-9c76f0638e3b" />
